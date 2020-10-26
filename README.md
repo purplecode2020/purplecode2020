@@ -1,16 +1,13 @@
-### Hi there 👋
+### PurpleCode Developer Leejaejun
+- JavaScript
+- React
+- ReactNative
+- Node
 
-<!--
-**purplecode2020/purplecode2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://m.facebook.com/purplecode2020)](https://m.facebook.com/purplecode2020) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/purple._.code/)](https://www.instagram.com/purple._.code/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:purplecode2020@gmail.com)](mailto:purplecode2020@gmail.com)
+</div>

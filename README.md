@@ -1,5 +1,6 @@
 ### PurpleCode Developer Leejaejun
 - JavaScript
+- TypeScript
 - React
 - ReactNative
 - Node

@@ -5,6 +5,9 @@
 - ReactNative
 - Node
 
+### Blog
+[https://purplecode.netlify.app/](https://purplecode.netlify.app/)
+
 ### About
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/purplecode2020)](https://www.facebook.com/purplecode2020) 
